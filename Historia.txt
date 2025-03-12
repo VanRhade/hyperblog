@@ -1,0 +1,9 @@
+
+
+esta es una nueva practica de git
+
+una nueva linea para hacer historico
+
+se agrega una linea mas para prueba de chekout
+
+se agrega una nueva linea para recordar lo aprendido
